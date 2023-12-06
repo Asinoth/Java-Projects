@@ -1,0 +1,1 @@
+A web application on intelij. Using java,javascript,html, css and implementing tomcat local server so the DB can run.

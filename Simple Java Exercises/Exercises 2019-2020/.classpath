@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="A1/src"/>
+	<classpathentry kind="src" path="Eclipse_Template_A1/src"/>
+	<classpathentry kind="src" path="Project_Templates_A2/Eclipse_Template_A2/src"/>
+	<classpathentry kind="lib" path="A1/jfugue-4.0.3.jar"/>
+	<classpathentry kind="lib" path="Eclipse_Template_A1/jfugue-4.0.3.jar"/>
+	<classpathentry kind="lib" path="Project_Templates_A2/Eclipse_Template_A2/bin/csd/uoc/gr/A22/jfugue-4.0.3.jar"/>
+	<classpathentry kind="output" path="A1/bin"/>
+</classpath>

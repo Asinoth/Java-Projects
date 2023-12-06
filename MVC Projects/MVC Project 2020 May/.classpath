@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Phase1/src"/>
+	<classpathentry kind="src" path="Phase2/src"/>
+	<classpathentry kind="lib" path="Jar/Tichu.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

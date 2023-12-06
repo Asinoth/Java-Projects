@@ -1,0 +1,43 @@
+<html>
+<!-- Author name: Kutsukos Giannis  AM:2609 -->
+<head>
+	<script>
+		var counter;
+		function increaseCounter(){
+			counter=counter+1;
+			if(counter==3){
+				window.location.href = "accident.html";
+			}
+		}
+		function initializeCounter(){
+			counter=0;
+		}
+		function updateCounter(){	//write on html
+			var Accident =document.getElementById("accident");
+			Accident.innerHTML ='</br><h1 align=center>Accident</br><b>(</b>' + counter + '<b>/3)</b></h1>';
+		}
+		function Click(){			//intialize clock
+			increaseCounter();
+			updateCounter();
+			setInterval(restartCounter,5000);
+		}
+		
+		function restartCounter(){
+		counter=0;
+		updateCounter();
+		}
+		
+	</script>
+</head>
+<body style="height: 100%; width: 100%; background-color:#FFA500;" onload="initializeCounter()">
+<div id="accident" onclick=Click() style="height:40%; color:#FFFFFF;background-color:#FF0000; margin-bottom: -20px;" >
+</br><h1 align=center>Accident</h1></div>
+
+<a href="unknownyet.html"><div id="Danger" style=" height:20%px; color:#FF9933;background-color:#0000FF;margin-bottom: -20px; " >
+<h1 align=center>Danger</h1></div></a>
+
+<a href="more.html"><div id="more" style=" height:20%px; color:#000000margin-bottom: -20px;">
+<h1 align=center>more</h1>
+</div></a>
+</body>
+</html>

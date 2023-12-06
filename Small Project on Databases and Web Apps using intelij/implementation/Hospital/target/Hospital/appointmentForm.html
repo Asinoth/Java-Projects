@@ -1,0 +1,37 @@
+<div class="mb-3">
+    <h1 id="title"></h1>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">HoSp</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <a class="nav-link" href="#" onclick="PersonalInfo()">Personal Info <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" onclick="Appointments('2022-01-12','user')">Appointments</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" onclick="certificate()">Certificate</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" onclick="logout()">Logout</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+<form id="loginForm" onsubmit="addAppointment();return false;">
+    <div class="mb-3" id="work">
+        <label for="hosp" class="form-label">Select Hospital</label>
+        <select id="hosp" class="form-select" onchange="kk()">
+            <option value="1" >Axillopouleio Nosokomeio Volou</option>
+            <option value="2" >PAGNI</option>
+        </select>
+    </div>
+    <div id="schedule" class="mb-3">
+        <label class="form-label">Select Date and Time</label>
+    </div>
+<!--    <button class="btn btn-primary" type="submit">Save new Appointment</button>-->
+</form>

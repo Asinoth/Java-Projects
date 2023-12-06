@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="kutsukosProject/ecivil/build/generated/src"/>
+	<classpathentry kind="src" path="kutsukosProject/ecivil/src/java"/>
+	<classpathentry kind="lib" path="kutsukosProject/ecivil/build/web/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="kutsukosProject/ecivil/build/web/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="kutsukosProject/ecivil/build/web/WEB-INF/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="kutsukosProject/ecivil/web/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="kutsukosProject/ecivil/web/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="kutsukosProject/ecivil/web/WEB-INF/lib/derbyclient.jar"/>
+	<classpathentry kind="output" path="kutsukosProject/ecivil/build/generated/classes"/>
+</classpath>

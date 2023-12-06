@@ -1,0 +1,23 @@
+<h1 class="text-center mt-3">Login</h1>
+<form id="loginForm1" onsubmit="login();return false;">
+    <div class="mb-3">
+        <label for="username" class="form-label">Username</label>
+        <input type="text" class="form-control" id="username" name="username" aria-describedby="usernameHelp" required>
+    </div>
+    <div class="mb-3">
+        <label for="password" class="form-label">Password</label>
+        <div class="input-group">
+            <input type="password" class="form-control" id="password" name="password" aria-describedby="passwordHelp" required>
+            <button class="btn btn-primary" id="pass-but" type="button" onclick=show_pass()>Show Password</button>
+        </div>
+    </div>
+    <div class="mb-3">
+        <p id="wc" hidden>Wrong Credentials!</p>
+        <p id="dc" hidden>You are not a certified doctor yet!</p>
+    </div>
+    <div class="d-grid gap-2 mx-auto mb-3">
+        <button type="submit" class="btn btn-primary" onsubmit="login()">Login</button>
+        <button type="button" id="regbut" class="btn mybtn" onclick="showRegistrationForm()">Register</button>
+        <button type="button" id="docbut" class="btn mybtn" onclick="showDoctors()">Available Doctors</button>
+    </div>
+</form>

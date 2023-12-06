@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Automobile">
+  <ClassDiagramComponents>
+    <Class name="Audi" package="" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="horsePower" type="int" visibility="private"/>
+        <Field name="numOfDoors" type="int" visibility="private"/>
+        <Field name="model" type="CarModel" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="startUp" returnType="void" visibility="public"/>
+        <Method name="openWindows" returnType="void" visibility="public"/>
+        <Method name="closeWindows" returnType="void" visibility="public"/>
+        <Method name="lock" returnType="void" visibility="public"/>
+        <Method name="unlock" returnType="void" visibility="public"/>
+        <Method name="activateESP" returnType="void" visibility="public"/>
+        <Method name="deactivateESP" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+    <Interface name="Automobile" package="" visibility="public" xPosition="320.0" yPosition="20.0">
+      <Methods>
+        <Method name="startUp" returnType="void" visibility="public"/>
+        <Method name="openWindows" returnType="void" visibility="public"/>
+        <Method name="closeWindows" returnType="void" visibility="public"/>
+        <Method name="lock" returnType="void" visibility="public"/>
+        <Method name="unlock" returnType="void" visibility="public"/>
+      </Methods>
+    </Interface>
+    <Enum name="CarModel" package="" visibility="public" xPosition="620.0" yPosition="20.0">
+      <Literals>
+        <Literal name="A1"/>
+        <Literal name="S1"/>
+        <Literal name="A3"/>
+        <Literal name="S3"/>
+        <Literal name="RS3"/>
+        <Literal name="A4"/>
+        <Literal name="S4"/>
+        <Literal name="RS4"/>
+        <Literal name="A5"/>
+        <Literal name="S5"/>
+        <Literal name="RS5"/>
+      </Literals>
+    </Enum>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <ImplementsRelation name="&lt;&lt;implements&gt;&gt;" source="Audi" target="Automobile"/>
+    <HasRelation name="model" source="Audi" target="CarModel" type="Aggregation" sourceCardinality="1..1" targetCardinality="1..1"/>
+  </ClassDiagramRelations>
+</ClassDiagram>

@@ -1,0 +1,24 @@
+<html>
+<!-- Author name: Kutsukos Giannis  AM:2609 -->
+<head>
+	<script>
+		var times=0;
+		function Click(){
+			var start=document.getElementById("start");
+			times++;
+			if(times%2!=0){
+				start.innerHTML="</br><h1 align=center>Stop</h1>";
+			}else{
+				start.innerHTML="</br><h1 align=center>Start</h1>";
+				window.location.href = "message_verif.html";
+			}
+		}
+	</script>
+</head>
+<body style="height: 100%; width: 100%; background-color:#FFA500;">
+<h1>Start Voice Recording</h1>
+<input type="text" x-webkit-speech />
+<a href="accident.html"><div id="back" style="height:20%; width:100%; align:left; color:#FFFFFF; background-color:#FF0000;  float: right;" >
+</br><h1 align="center">Back</h1></div></a>
+</body>
+</html>
