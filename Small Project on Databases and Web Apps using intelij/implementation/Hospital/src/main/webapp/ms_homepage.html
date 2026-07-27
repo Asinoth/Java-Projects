@@ -1,0 +1,35 @@
+<div class="mb-5 mt-5">
+    <div class="mb-3">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">HoSp</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" onclick="PersonalInfo()">Personal Info</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" onclick="Appointments('2022-01-12')">Appointments <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#" onclick="logout()">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="mb-3">
+        <label for="Apdate" class="form-label">Search appointments by date</label>
+        <input type="date" id="Apdate" name="Apdate"
+               value="2022-01-12"
+               max="2050-12-31" required onchange="showAppointments()">
+        <button class="btn btn-danger" onclick="downloadAp()">Download Appointments</button>
+    </div>
+    <div id="content">
+    </div>
+    <div class="mb-5">
+        <button type="button" id="newapbut" class="btn btn-primary" onclick="newAp()">New Appointment</button> <!--create a new appointment-->
+    </div>
+</div>

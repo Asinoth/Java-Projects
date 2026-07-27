@@ -1,0 +1,28 @@
+form,h1 {
+    color: #0D6EFD;
+}
+
+.black {
+    color: black;
+}
+
+body {
+    background-image: url(hosp.jpg);
+    background-repeat: repeat;
+
+}
+
+main {
+    background-color: white;
+    border-radius: 0.3%;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+}
+
+.mybtn{
+    border-color: #0D6EFD;
+    background-color: #f8f9fa;
+    color: #0D6EFD;
+}

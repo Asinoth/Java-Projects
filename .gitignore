@@ -1,0 +1,31 @@
+# Compiled class files and archives
+*.class
+*.jar
+*.war
+*.ear
+
+# Build output
+build/
+bin/
+out/
+target/
+dist/
+
+# Node (the hospital web app's frontend)
+node_modules/
+npm-debug.log
+
+# IDE metadata
+.metadata/
+.recommenders/
+.settings/
+.classpath
+.project
+*.iml
+.idea/
+nbproject/private/
+
+# OS noise
+Thumbs.db
+.DS_Store
+desktop.ini

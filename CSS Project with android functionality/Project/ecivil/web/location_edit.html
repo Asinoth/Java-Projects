@@ -1,0 +1,31 @@
+<html>
+<!-- Author name: Kutsukos Giannis  AM:2609 -->
+<head>
+	<script>
+		var i=0;
+		function manuallocation(){
+			if(i==0){
+				var manual =document.getElementById("manual");
+				manual.innerHTML+="</br>Αλλαγή Θέσης </br>Περιγραφή <input type=text name=desc></br>Συντεταγμένες <input type=text name=sunt></br>Άλλο <input type=text name=other>";
+				i++;
+			}
+			else{
+				i=0;
+				var manual =document.getElementById("manual");
+				manual.innerHTML=" ";
+			}
+		}
+	</script>
+</head>
+<body style="height: 100%; width: 100%; background-color:#FFA500;">
+<h3>Currently, GPS is activated. Please check the box to change the location manually</h3>
+</br>
+<input onclick="manuallocation()" type="checkbox" name="vehicle" value="Bike">
+<div id="manual"> </div>
+</br>
+<a href="accident.html"><div id="ok"  style="height:20%; width:50%; align:left; color:#FFFFFF; background-color:#FF0000;  float: left;" >
+</br><h1 align=center>Ok</h1></div></a>
+<a href="accident.html"><div id="back" style="height:20%; width:50%; align:left; color:#FFFFFF; background-color:#FF0000;  float: right;" >
+</br><h1 align="center">Back</h1></div></a>
+</body>
+</html>

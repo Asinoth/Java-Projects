@@ -1,0 +1,1000 @@
+[311791]	[Goldfinger]	[1964]	[7.8]	[109012]	[110]	
+Action	Adventure	Crime	Thriller	
+[322574]	[Home Alone]	[1990]	[7.4]	[210887]	[103]	
+Comedy	Family	
+[297631]	[Face/Off]	[1997]	[7.3]	[221966]	[138]	
+Action	Crime	Sci_Fi	Thriller	
+[345578]	[Knowing]	[2009]	[6.2]	[151602]	[121]	
+Drama	Mystery	Sci_Fi	Thriller	
+[458136]	[The Bucket List]	[2007]	[7.4]	[143350]	[97]	
+Adventure	Comedy	Drama	
+[476877]	[The Rock]	[1996]	[7.4]	[213535]	[136]	
+Action	Adventure	Thriller	
+[490997]	[Troy]	[2004]	[7.2]	[271594]	[196]	
+Adventure	Drama	
+[354277]	[La vita � bella]	[1997]	[8.6]	[261757]	[122]	
+Comedy	Drama	Romance	War	
+[488696]	[Total Recall]	[2012]	[6.3]	[153431]	[130]	
+Action	Action	Adventure	Sci_Fi	Sci_Fi	Thriller	
+[323982]	[Hotel Transylvania]	[2012]	[7.1]	[96096]	[91]	
+Animation	Comedy	Family	Fantasy	
+[323662]	[Hot Fuzz]	[2007]	[7.9]	[262160]	[121]	
+Action	Comedy	
+[254004]	[Burn After Reading]	[2008]	[7.0]	[194634]	[96]	
+Comedy	Crime	Drama	
+[291482]	[El laberinto del fauno]	[2006]	[8.3]	[336269]	[118]	
+Drama	Fantasy	War	
+[307343]	[Gamer]	[2009]	[5.8]	[89981]	[95]	
+Action	Sci_Fi	Thriller	
+[462870]	[The Fast and the Furious]	[2001]	[6.5]	[187349]	[106]	
+Action	Crime	Thriller	
+[382748]	[Mrs. Doubtfire]	[1993]	[6.8]	[123585]	[125]	
+Comedy	Drama	
+[473383]	[The Number 23]	[2007]	[6.4]	[133841]	[101]	
+Drama	Mystery	Thriller	
+[289289]	[Edward Scissorhands]	[1990]	[8.0]	[271091]	[105]	
+Drama	Fantasy	Romance	
+[462190]	[The English Patient]	[1996]	[7.4]	[109651]	[162]	
+Drama	Romance	War	
+[224430]	[Ace Ventura: When Nature Calls]	[1995]	[6.2]	[116524]	[90]	
+Comedy	
+[318136]	[He's Just Not That Into You]	[2009]	[6.4]	[102036]	[129]	
+Comedy	Drama	Romance	
+[260807]	[Chicago]	[2002]	[7.2]	[137294]	[113]	
+Comedy	Crime	Musical	
+[506319]	[White House Down]	[2013]	[6.4]	[89271]	[131]	
+Action	Drama	Thriller	
+[449638]	[TRON: Legacy]	[2010]	[6.9]	[207038]	[127]	
+Action	Adventure	Sci_Fi	
+[457591]	[The Book of Eli]	[2010]	[6.9]	[167828]	[118]	
+Action	Adventure	Drama	Thriller	
+[215896]	[1408]	[2007]	[6.8]	[166674]	[112]	
+Horror	Mystery	
+[275726]	[Definitely, Maybe]	[2008]	[7.2]	[104204]	[112]	
+Comedy	Drama	Romance	
+[217940]	[50/50]	[2011]	[7.8]	[204345]	[100]	
+Comedy	Drama	
+[503937]	[Wayne's World]	[1992]	[7.0]	[87292]	[94]	
+Comedy	Music	
+[411031]	[Prince of Persia: The Sands of Time]	[2010]	[6.6]	[165227]	[116]	
+Action	Adventure	Fantasy	Romance	
+[457698]	[The Bourne Supremacy]	[2004]	[7.8]	[250442]	[108]	
+Action	Crime	Thriller	
+[270607]	[Dallas Buyers Club]	[2013]	[8.0]	[75555]	[117]	
+Biography	Drama	History	
+[465158]	[The Great Gatsby]	[2013]	[7.4]	[213361]	[143]	
+Drama	Romance	
+[478862]	[The Social Network]	[2010]	[7.8]	[331471]	[120]	
+Biography	Drama	
+[447004]	[Super 8]	[2011]	[7.1]	[223629]	[112]	
+Mystery	Sci_Fi	Thriller	
+[460477]	[The Dark Knight Rises]	[2012]	[8.6]	[747562]	[165]	
+Action	Crime	Thriller	
+[463014]	[The Fifth Element]	[1997]	[7.6]	[258586]	[126]	
+Action	Adventure	Sci_Fi	
+[482026]	[The Village]	[2004]	[6.5]	[155661]	[108]	
+Drama	Mystery	Thriller	
+[289040]	[Ed Wood]	[1994]	[7.9]	[122182]	[127]	
+Biography	Comedy	Drama	
+[215733]	[12 Years a Slave]	[2013]	[8.4]	[109552]	[134]	
+Biography	Drama	History	
+[441348]	[Speed]	[1994]	[7.2]	[203884]	[116]	
+Action	Crime	Thriller	
+[359364]	[Legends of the Fall]	[1994]	[7.5]	[84348]	[133]	
+Drama	Romance	War	Western	
+[366542]	[Love & Other Drugs]	[2010]	[6.6]	[102630]	[112]	
+Comedy	Drama	Romance	
+[230364]	[American Hustle]	[2013]	[7.6]	[127655]	[129]	
+Crime	Drama	
+[311953]	[Gone Baby Gone]	[2007]	[7.7]	[147190]	[114]	
+Crime	Drama	Mystery	Thriller	
+[380751]	[Monster]	[2003]	[7.3]	[83015]	[109]	
+Biography	Crime	Drama	
+[315383]	[Hachi: A Dog's Tale]	[2009]	[8.2]	[73868]	[93]	
+Drama	Family	
+[247717]	[Blade]	[1998]	[7.1]	[143879]	[110]	
+Action	Fantasy	Horror	
+[343458]	[Kick-Ass 2]	[2013]	[6.8]	[109761]	[103]	
+Action	Comedy	Crime	
+[418662]	[Resident Evil: Apocalypse]	[2004]	[6.1]	[121567]	[98]	
+Action	Horror	Sci_Fi	Thriller	
+[272904]	[Date Night]	[2010]	[6.3]	[101268]	[101]	
+Comedy	Crime	Romance	Thriller	Adult	
+[373766]	[Master and Commander: The Far Side of the World]	[2003]	[7.4]	[139031]	[138]	
+Action	Adventure	Drama	War	
+[513454]	[Zero Dark Thirty]	[2012]	[7.5]	[158273]	[157]	
+Drama	History	Thriller	
+[344368]	[King Kong]	[2005]	[7.3]	[252962]	[187]	
+Action	Adventure	Drama	Romance	
+[462705]	[The Fall]	[2006]	[7.9]	[69844]	[117]	
+Adventure	Drama	Fantasy	
+[232641]	[Anger Management]	[2003]	[6.2]	[139930]	[106]	
+Comedy	
+[482604]	[The Wedding Singer]	[1998]	[6.8]	[88115]	[95]	
+Comedy	Romance	
+[410193]	[Predator 2]	[1990]	[6.2]	[71547]	[103]	
+Action	Sci_Fi	Thriller	
+[471633]	[The Matrix Reloaded]	[2003]	[7.2]	[330267]	[138]	
+Action	Sci_Fi	
+[411941]	[Project X]	[2012]	[6.7]	[118216]	[88]	
+Comedy	Crime	
+[285774]	[Dr. No]	[1962]	[7.3]	[89847]	[110]	
+Action	Adventure	Crime	Thriller	
+[485058]	[Three Kings]	[1999]	[7.2]	[115606]	[114]	
+Action	Adventure	Comedy	Drama	War	
+[456153]	[The Basketball Diaries]	[1995]	[7.3]	[60374]	[102]	
+Biography	Crime	Drama	Sport	
+[226709]	[Air Force One]	[1997]	[6.4]	[117460]	[124]	
+Action	Adventure	Drama	Thriller	
+[224945]	[Adaptation.]	[2002]	[7.8]	[116282]	[81]	
+Comedy	Crime	Drama	
+[486502]	[Tinker Tailor Soldier Spy]	[2011]	[7.1]	[113736]	[127]	
+Drama	Mystery	Thriller	
+[459135]	[The Chronicles of Riddick]	[2004]	[6.7]	[147822]	[134]	
+Action	Adventure	Sci_Fi	Thriller	
+[381574]	[Mortal Kombat]	[1995]	[5.8]	[64614]	[101]	
+Action	Adventure	Fantasy	Sci_Fi	Thriller	
+[237470]	[Austin Powers in Goldmember]	[2002]	[6.2]	[131449]	[94]	
+Action	Comedy	Crime	Sci_Fi	
+[392448]	[Notting Hill]	[1999]	[7.0]	[150324]	[124]	
+Comedy	Drama	Romance	
+[468091]	[The King's Speech]	[2010]	[8.1]	[320272]	[118]	
+Biography	Drama	History	
+[242942]	[Before Sunrise]	[1995]	[8.1]	[116923]	[105]	
+Drama	Romance	
+[261560]	[Chocolat]	[2000]	[7.3]	[120495]	[121]	
+Drama	Romance	
+[326626]	[I Love You Phillip Morris]	[2009]	[6.7]	[62039]	[98]	
+Comedy	Drama	Romance	
+[244907]	[Beverly Hills Cop II]	[1987]	[6.4]	[65288]	[100]	
+Action	Comedy	Crime	Thriller	
+[442153]	[Spring Breakers]	[2012]	[5.4]	[75653]	[94]	
+Crime	Drama	
+[464676]	[The Godfather]	[1972]	[9.2]	[811185]	[175]	
+Crime	Drama	
+[471546]	[The Mask]	[1994]	[6.8]	[184406]	[101]	
+Comedy	Crime	Fantasy	Romance	
+[237473]	[Austin Powers: The Spy Who Shagged Me]	[1999]	[6.6]	[146733]	[95]	
+Action	Adventure	Comedy	Crime	Sci_Fi	
+[430003]	[Semi-Pro]	[2008]	[5.7]	[54046]	[99]	
+Comedy	Sport	
+[466585]	[The House Bunny]	[2008]	[5.5]	[48635]	[97]	
+Comedy	Romance	
+[484843]	[Thor]	[2011]	[7.0]	[336790]	[115]	
+Action	Adventure	Fantasy	
+[263933]	[Cloud Atlas]	[2012]	[7.6]	[207330]	[172]	
+Adventure	Drama	Sci_Fi	
+[301415]	[First Blood]	[1982]	[7.6]	[133129]	[93]	
+Action	Adventure	Drama	Thriller	
+[496066]	[United 93]	[2006]	[7.7]	[71640]	[111]	
+Action	Crime	Drama	History	Thriller	
+[455349]	[The Animatrix]	[2003]	[7.4]	[50364]	[102]	
+Action	Adventure	Animation	Sci_Fi	
+[505186]	[What Happens in Vegas]	[2008]	[6.1]	[108159]	[99]	
+Comedy	Romance	
+[420256]	[Rise of the Guardians]	[2012]	[7.3]	[78302]	[97]	
+Adventure	Animation	Family	Fantasy	
+[307145]	[Galaxy Quest]	[1999]	[7.3]	[100248]	[102]	
+Adventure	Comedy	Sci_Fi	
+[251695]	[Breach]	[2007]	[7.1]	[47136]	[110]	
+Biography	Crime	Drama	History	Thriller	
+[428783]	[Seabiscuit]	[2003]	[7.4]	[50495]	[140]	
+Drama	History	Sport	
+[505617]	[When Harry Met Sally...]	[1989]	[7.6]	[117251]	[89]	
+Comedy	Drama	Romance	
+[432185]	[Shame]	[2011]	[7.3]	[102387]	[101]	
+Drama	
+[282770]	[District 9]	[2009]	[8.0]	[412834]	[112]	
+Action	Sci_Fi	Thriller	
+[354705]	[Lady and the Tramp]	[1955]	[7.4]	[48877]	[76]	
+Adventure	Animation	Comedy	Family	Romance	
+[361683]	[Letters from Iwo Jima]	[2006]	[8.0]	[111854]	[141]	
+Drama	History	War	
+[253085]	[Br�no]	[2009]	[5.9]	[97083]	[75]	
+Comedy	
+[486681]	[Titanic]	[1997]	[7.7]	[556350]	[194]	
+Drama	Romance	
+[490435]	[Trick 'r Treat]	[2007]	[6.8]	[49107]	[82]	
+Horror	Thriller	
+[254346]	[Butch Cassidy and the Sundance Kid]	[1969]	[8.2]	[109882]	[110]	
+Adventure	Biography	Crime	Western	
+[220684]	[A Lot Like Love]	[2005]	[6.6]	[47864]	[107]	
+Comedy	Drama	Romance	
+[479021]	[The Sound of Music]	[1965]	[8.0]	[108781]	[174]	
+Biography	Drama	Family	Musical	Romance	
+[385131]	[Mysterious Skin]	[2004]	[7.8]	[46590]	[107]	
+Drama	
+[512015]	[You, Me and Dupree]	[2006]	[5.6]	[57538]	[108]	
+Comedy	Romance	
+[242969]	[Before the Devil Knows You're Dead]	[2007]	[7.3]	[70594]	[123]	
+Crime	Drama	Thriller	
+[237932]	[Awake]	[2007]	[6.5]	[53651]	[84]	
+Crime	Mystery	Thriller	
+[363325]	[Lions for Lambs]	[2007]	[6.2]	[35857]	[92]	
+Drama	Thriller	War	
+[355326]	[Lara Croft Tomb Raider: The Cradle of Life]	[2003]	[5.4]	[78096]	[117]	
+Action	Adventure	Fantasy	Thriller	
+[432632]	[Shaun of the Dead]	[2004]	[8.0]	[296559]	[99]	
+Comedy	Horror	
+[420123]	[Rio Bravo]	[1959]	[8.1]	[34351]	[141]	
+Western	
+[503321]	[WarGames]	[1983]	[7.1]	[57901]	[114]	
+Sci_Fi	Thriller	
+[285998]	[DragonHeart]	[1996]	[6.4]	[65470]	[103]	
+Action	Adventure	Drama	Fantasy	
+[420857]	[Robin Hood]	[1973]	[7.6]	[54530]	[83]	
+Adventure	Animation	Comedy	Family	Romance	
+[439086]	[Solaris]	[2002]	[6.2]	[58369]	[99]	
+Drama	Mystery	Romance	Sci_Fi	
+[446943]	[Sunshine Cleaning]	[2008]	[6.9]	[51842]	[91]	
+Comedy	Drama	
+[402871]	[Paths of Glory]	[1957]	[8.5]	[83995]	[88]	
+Drama	War	
+[460112]	[The Crow]	[1994]	[7.6]	[110984]	[97]	
+Action	Fantasy	
+[320835]	[Highlander]	[1986]	[7.2]	[79559]	[110]	
+Action	Adventure	Drama	Fantasy	
+[420963]	[RoboCop]	[1987]	[7.5]	[131863]	[91]	
+Action	Crime	Sci_Fi	
+[483212]	[The Woman in Black]	[2012]	[6.5]	[99258]	[95]	
+Drama	Horror	Thriller	
+[263001]	[Cirque du Freak: The Vampire's Assistant]	[2009]	[6.0]	[30444]	[109]	
+Action	Adventure	Fantasy	Thriller	
+[224962]	[Addams Family Values]	[1993]	[6.5]	[42820]	[94]	
+Comedy	Fantasy	
+[395804]	[Oldeuboi]	[2003]	[8.4]	[241769]	[120]	
+Drama	Mystery	Thriller	
+[377578]	[Middle Men]	[2009]	[6.5]	[29421]	[105]	
+Comedy	Crime	Drama	
+[270958]	[Dances with Wolves]	[1990]	[8.0]	[141774]	[236]	
+Adventure	Drama	Romance	Western	
+[323563]	[Hostel: Part II]	[2007]	[5.4]	[56130]	[94]	
+Horror	
+[324224]	[House of Sand and Fog]	[2003]	[7.7]	[49969]	[126]	
+Drama	
+[370039]	[Magnum Force]	[1973]	[7.2]	[33616]	[124]	
+Action	Crime	Mystery	Thriller	
+[277016]	[Der Himmel �ber Berlin]	[1987]	[8.1]	[36873]	[128]	
+Drama	Fantasy	Romance	
+[465222]	[The Great Mouse Detective]	[1986]	[7.2]	[23838]	[74]	
+Adventure	Animation	Family	Musical	Mystery	
+[215366]	[10,000 BC]	[2008]	[5.0]	[89835]	[109]	
+Action	Adventure	Drama	Fantasy	Sci_Fi	
+[449940]	[Taegukgi hwinalrimyeo]	[2004]	[8.2]	[27098]	[140]	
+Action	Drama	War	
+[233597]	[Antichrist]	[2009]	[6.6]	[62352]	[108]	
+Drama	
+[404762]	[Pet Sematary]	[1989]	[6.5]	[48598]	[103]	
+Horror	
+[465721]	[The Happening]	[2008]	[5.1]	[135199]	[91]	
+Sci_Fi	Thriller	
+[303369]	[Forbidden Planet]	[1956]	[7.7]	[27126]	[98]	
+Action	Adventure	Sci_Fi	
+[246519]	[Bin-jip]	[2004]	[8.1]	[30694]	[84]	
+Crime	Drama	Romance	
+[227035]	[Akmareul boatda]	[2010]	[7.8]	[46804]	[141]	
+Crime	Drama	Thriller	
+[237297]	[August Rush]	[2007]	[7.6]	[69633]	[100]	
+Drama	Music	
+[484387]	[Thirteen Days]	[2000]	[7.3]	[38780]	[145]	
+Drama	History	Thriller	
+[249060]	[Blue Jasmine]	[2013]	[7.4]	[61903]	[98]	
+Comedy	Drama	
+[216525]	[2001: A Space Odyssey]	[1968]	[8.3]	[292676]	[160]	
+Adventure	Mystery	Sci_Fi	
+[340438]	[Kagemusha]	[1980]	[8.0]	[19027]	[162]	
+Drama	History	War	
+[429571]	[Seeking a Friend for the End of the World]	[2012]	[6.7]	[60451]	[101]	
+Drama	Romance	Sci_Fi	
+[460070]	[The Croods]	[2013]	[7.3]	[85580]	[98]	
+Adventure	Animation	Comedy	Family	Fantasy	
+[435932]	[Single White Female]	[1992]	[6.3]	[19523]	[107]	
+Drama	Thriller	
+[258811]	[Central do Brasil]	[1998]	[8.0]	[24985]	[108]	
+Drama	
+[264126]	[Coach Carter]	[2005]	[7.2]	[68232]	[136]	
+Drama	Sport	
+[221355]	[A Perfect World]	[1993]	[7.5]	[46672]	[125]	
+Crime	Drama	Thriller	
+[305706]	[Fruitvale Station]	[2013]	[7.6]	[23459]	[85]	
+Biography	Drama	
+[377641]	[Midnight Cowboy]	[1969]	[8.0]	[61437]	[113]	
+Drama	
+[473474]	[The Odd Couple]	[1968]	[7.7]	[20357]	[105]	
+Comedy	Romance	
+[400542]	[Pain & Gain]	[2013]	[6.5]	[96004]	[129]	
+Action	Comedy	Crime	Drama	
+[284376]	[Don't Say a Word]	[2001]	[6.3]	[34578]	[113]	
+Crime	Thriller	
+[302971]	[Fools Rush In]	[1997]	[6.0]	[22941]	[109]	
+Comedy	Drama	Romance	
+[303898]	[Four Christmases]	[2008]	[5.6]	[38541]	[88]	
+Comedy	Drama	Romance	
+[381996]	[Mou gaan dou]	[2002]	[8.2]	[68026]	[101]	
+Crime	Mystery	Thriller	
+[332518]	[Interstate 60: Episodes of the Road]	[2002]	[7.7]	[19085]	[116]	
+Adventure	Comedy	Drama	Fantasy	Mystery	Sci_Fi	Thriller	
+[416810]	[Real Genius]	[1985]	[7.0]	[19407]	[108]	
+Comedy	Romance	Sci_Fi	
+[503775]	[Water for Elephants]	[2011]	[7.0]	[75148]	[120]	
+Drama	Romance	
+[291323]	[El hijo de la novia]	[2001]	[7.9]	[8397]	[123]	
+Comedy	Drama	
+[266406]	[Convoy]	[1978]	[6.2]	[8894]	[110]	
+Action	Drama	
+[232624]	[Angels with Dirty Faces]	[1938]	[8.0]	[13146]	[97]	
+Crime	Drama	Film_Noir	Thriller	
+[322151]	[Holiday Inn]	[1942]	[7.6]	[6637]	[100]	
+Comedy	Drama	Musical	Romance	
+[274889]	[Death Proof]	[2007]	[7.1]	[160542]	[121]	
+Action	Thriller	
+[484687]	[This Must Be the Place]	[2011]	[6.7]	[18571]	[111]	
+Comedy	Drama	
+[471097]	[The Man Who Fell to Earth]	[1976]	[6.7]	[12530]	[119]	
+Drama	Sci_Fi	
+[427137]	[Saving Grace]	[2000]	[6.9]	[13087]	[93]	
+Comedy	Crime	
+[455668]	[The Astronaut Farmer]	[2006]	[6.3]	[17725]	[104]	
+Adventure	Drama	Sci_Fi	
+[432236]	[Shane]	[1953]	[7.8]	[23172]	[118]	
+Drama	Western	
+[285819]	[Dr. Who and the Daleks]	[1965]	[5.6]	[2056]	[82]	
+Adventure	Sci_Fi	
+[419023]	[Return to Me]	[2000]	[6.9]	[14368]	[115]	
+Comedy	Drama	Romance	
+[345518]	[Knock on Any Door]	[1949]	[6.9]	[1892]	[100]	
+Crime	Drama	Film_Noir	
+[359543]	[Lektionen in Finsternis]	[1992]	[8.1]	[2776]	[50]	
+Documentary	Sci_Fi	War	
+[496192]	[Unm�gliche Liebe]	[1932]	[5.7]	[11]	[88]	
+Drama	Romance	
+[452784]	[Tengoku kara no �ru]	[2011]	[7.2]	[51]	[114]	
+Drama	
+[225892]	[After Winter, Spring]	[2012]	[6.8]	[5]	[75]	
+Documentary	Drama	
+[303778]	[Fortune carr�e]	[1955]	[5.1]	[32]	[130]	
+Adventure	
+[288708]	[Easter Sunday]	[2004]	[7.9]	[7]	[22]	
+Short	
+[282472]	[Disaster on K2]	[2009]	[7.1]	[15]	[50]	
+Documentary	Reality_TV	
+[411833]	[Profiles in Science]	[2002]	[7.9]	[25]	[5]	
+Animation	Comedy	Short	
+[325976]	[H�rv�rk]	[1977]	[6.7]	[139]	[132]	
+Drama	
+[432329]	[Shanked]	[2012]	[7.6]	[13]	[26]	
+Drama	Short	
+[298055]	[Fallen]	[1998]	[7.0]	[45740]	[124]	
+Crime	Drama	Fantasy	Thriller	
+[311027]	[Gnork: En fantastisk historia]	[2005]	[7.7]	[12]	[20]	
+Animation	Short	
+[468191]	[The Kolaborator]	[2007]	[6.9]	[59]	[14]	
+Drama	Short	War	
+[327821]	[ISPR Investigates: Ghosts of England]	[1999]	[6.2]	[16]	[70]	
+Documentary	
+[218804]	[A Bill of Divorcement]	[1932]	[6.6]	[847]	[70]	
+Drama	
+[366571]	[Love 101]	[2000]	[5.1]	[121]	[86]	
+Comedy	Drama	Romance	
+[346350]	[Kook's Tour]	[1970]	[6.7]	[104]	[53]	
+Comedy	
+[319955]	[Hero]	[2002]	[6.5]	[100]	[11]	
+Short	
+[495664]	[Une bonne journ�e]	[1994]	[6.9]	[8]	[8]	
+Animation	Short	
+[429466]	[See Ryan]	[2010]	[6.2]	[8]	[7]	
+Comedy	Drama	Fantasy	Short	
+[300474]	[Figaro and Cleo]	[1943]	[6.6]	[159]	[8]	
+Animation	Comedy	Family	Musical	Short	
+[379419]	[Mister Vampire]	[1916]	[5.2]	[9]	[20]	
+Drama	Short	
+[220330]	[A Hot Dog Program]	[1999]	[7.8]	[104]	[50]	
+Documentary	
+[369149]	[Maciste contro il vampiro]	[1961]	[6.0]	[168]	[92]	
+Adventure	Fantasy	Horror	
+[309223]	[Getting Away with Murder: The JonBenet Ramsey Mystery]	[2000]	[6.1]	[48]	[95]	
+Drama	
+[248865]	[Blossoms on Broadway]	[1937]	[5.1]	[8]	[88]	
+Comedy	
+[228634]	[All Quiet on the Western Front]	[1930]	[8.1]	[40289]	[101]	
+Drama	War	
+[485167]	[Three Towers]	[2006]	[7.6]	[28]	[12]	
+Drama	Short	
+[300233]	[Fetish Fucks 2]	[2008]	[8.8]	[5]	[188]	
+Adult	
+[469384]	[The Life of Kevin Carter]	[2004]	[7.7]	[91]	[27]	
+Documentary	Short	
+[506380]	[White Palace]	[1990]	[6.5]	[4709]	[103]	
+Drama	Romance	
+[288738]	[Easy]	[1978]	[7.0]	[81]	[80]	
+Adult	
+[516132]	[�z Hakiki Karakol: Asayis Berkemal Aga...]	[2012]	[7.6]	[56]	[85]	
+Comedy	
+[436913]	[Skrapp �t]	[2008]	[6.2]	[195]	[92]	
+Comedy	Drama	
+[353988]	[La vendetta di Spartacus]	[1964]	[6.1]	[30]	[93]	
+Adventure	
+[308487]	[Gem-Jams]	[1943]	[6.6]	[23]	[18]	
+Comedy	Short	
+[421976]	[Romeo and Juliet]	[2014]	[7.1]	[37]	[135]	
+Romance	
+[305416]	[From Hare to Eternity]	[1997]	[5.7]	[104]	[7]	
+Animation	Comedy	Family	Musical	Short	
+[412856]	[Pumpkin]	[2002]	[6.3]	[6740]	[113]	
+Comedy	Drama	Romance	Sport	
+[430865]	[Seven Gates]	[1997]	[5.6]	[48]	[20]	
+Comedy	Short	
+[353131]	[La prise de pouvoir par Louis XIV]	[1966]	[7.3]	[689]	[102]	
+Biography	History	
+[422420]	[Rosie]	[1998]	[7.4]	[500]	[97]	
+Drama	
+[491215]	[Truth Be Told]	[2002]	[5.2]	[23]	[124]	
+Comedy	Drama	Musical	
+[475976]	[The Re-Bourne Identity]	[2009]	[5.1]	[24]	[7]	
+Comedy	Short	
+[403889]	[Penrod's Double Trouble]	[1938]	[6.4]	[49]	[60]	
+Comedy	
+[264687]	[Colleurs d'affiches]	[1897]	[5.4]	[76]	[1]	
+Short	
+[369694]	[Madonna: Who's That Girl - Live in Japan]	[1987]	[7.0]	[105]	[92]	
+Documentary	Music	
+[222557]	[A Waggily Tale]	[1958]	[6.6]	[43]	[6]	
+Animation	Comedy	Family	Short	
+[278372]	[Desert Fox]	[2009]	[6.7]	[9]	[91]	
+Action	Adventure	Crime	Drama	Thriller	
+[388376]	[Nesreca uvek ima tendenciju da se uvecava]	[2007]	[7.8]	[12]	[9]	
+Drama	Short	
+[343743]	[Kikser]	[2002]	[5.5]	[11]	[17]	
+Drama	Family	Short	
+[333387]	[Is It True What They Say About Ann?]	[2004]	[5.7]	[90]	[40]	
+Documentary	Short	
+[462500]	[The Experiment]	[1973]	[7.8]	[8]	[118]	
+Adult	
+[486810]	[Tlatelolco, Verano de 68]	[2013]	[6.1]	[138]	[105]	
+Drama	
+[481968]	[The Vicious Years]	[1950]	[5.2]	[13]	[81]	
+Crime	Drama	
+[328943]	[Il gaucho]	[1965]	[6.9]	[116]	[116]	
+Comedy	
+[332439]	[Intermission]	[2004]	[7.4]	[36]	[14]	
+Short	
+[455348]	[The Animators: The Breath of Life]	[2006]	[5.9]	[17]	[6]	
+Documentary	Short	
+[448270]	[Swallow the Leader]	[1949]	[6.9]	[102]	[7]	
+Animation	Comedy	Family	Short	
+[509459]	[Wrong Number]	[2007]	[6.1]	[12]	[73]	
+Romance	
+[352482]	[La muchacha de las bragas de oro]	[1980]	[5.2]	[74]	[105]	
+Thriller	
+[468799]	[The Last September]	[1999]	[6.1]	[570]	[103]	
+Drama	History	Romance	
+[271596]	[Dare]	[2009]	[6.0]	[2727]	[100]	
+Drama	Romance	
+[224827]	[Ad, ili dose na samogo sebya]	[1989]	[8.0]	[6]	[143]	
+Drama	
+[221866]	[A Sin That Cannot Be Forgiven]	[2011]	[8.8]	[5]	[6]	
+Drama	Horror	Short	
+[429934]	[Selling Innocence]	[2005]	[5.6]	[481]	[88]	
+Drama	
+[433937]	[Shooting Palermo]	[2008]	[7.0]	[26]	[47]	
+Documentary	
+[379001]	[Miss Arizona]	[1988]	[6.8]	[38]	[95]	
+Drama	Musical	War	
+[475497]	[The Program]	[1993]	[6.4]	[6298]	[112]	
+Action	Drama	Sport	
+[250881]	[Bosko's Mechanical Man]	[1933]	[5.4]	[43]	[6]	
+Animation	Comedy	Family	Sci_Fi	Short	
+[246425]	[Billy Schulz]	[2006]	[8.3]	[14]	[11]	
+Comedy	Short	
+[426557]	[Sarkici]	[2001]	[5.1]	[30]	[125]	
+Comedy	Drama	
+[391471]	[Noel]	[2004]	[6.3]	[5440]	[96]	
+Drama	
+[277993]	[Der rote Kreis]	[1960]	[6.2]	[217]	[92]	
+Crime	Thriller	
+[453147]	[Terror Island]	[1920]	[6.1]	[84]	[55]	
+Mystery	
+[328913]	[Il figlio di Django]	[1967]	[5.5]	[61]	[95]	
+Western	
+[470454]	[The Magic of David Copperfield VI: Floating Over the Grand Canyon]	[1984]	[6.7]	[17]	[50]	
+Comedy	Family	Fantasy	Music	
+[432113]	[Shakespeare's Happy Endings]	[2005]	[7.6]	[9]	[59]	
+Comedy	Drama	Short	
+[413096]	[Pure Race]	[1995]	[7.0]	[61]	[115]	
+Drama	
+[515812]	[� pi� facile che un cammello...]	[1950]	[6.3]	[33]	[98]	
+Drama	Fantasy	
+[356582]	[Le Quiet Squad]	[1967]	[6.1]	[25]	[7]	
+Animation	Short	
+[501960]	[WCW Halloween Havoc]	[1999]	[5.9]	[14]	[180]	
+Sport	
+[463057]	[The Fighting Cholitas]	[2006]	[7.7]	[40]	[20]	
+Documentary	Short	
+[271060]	[Dando y dando]	[1990]	[5.6]	[11]	[95]	
+Comedy	
+[288016]	[Dzusov� rom�n]	[1984]	[6.5]	[32]	[75]	
+Drama	
+[362882]	[Like Ingrid Bergman]	[2012]	[7.9]	[14]	[16]	
+Comedy	Romance	Short	
+[384164]	[My Boy Johnny]	[1944]	[6.5]	[6]	[7]	
+Animation	Short	
+[230524]	[American Tale]	[2004]	[6.8]	[8]	[14]	
+Drama	Short	
+[233980]	[Ape]	[2012]	[5.0]	[143]	[86]	
+Comedy	Drama	Fantasy	
+[246633]	[Bionicle: The Legend Reborn]	[2009]	[5.5]	[555]	[80]	
+Action	Adventure	Animation	Sci_Fi	
+[251892]	[Breaking: Los Angeles]	[2013]	[8.1]	[14]	[59]	
+Documentary	
+[426233]	[Santa, Jr.]	[2002]	[5.6]	[335]	[100]	
+Comedy	Fantasy	Romance	
+[440263]	[Sophie Scholl - Die letzten Tage]	[2005]	[7.7]	[18546]	[117]	
+Biography	Crime	Drama	History	Thriller	War	
+[265012]	[Come Together]	[2002]	[5.6]	[136]	[90]	
+Comedy	Drama	Romance	
+[231272]	[An Evening with Emery Long]	[2009]	[7.0]	[7]	[14]	
+Comedy	Short	
+[307421]	[Gancheob Li Cheol-jin]	[1999]	[6.4]	[89]	[105]	
+Comedy	
+[408318]	[Police Bullets]	[1942]	[5.1]	[8]	[61]	
+Crime	Drama	
+[443613]	[Staub auf unseren Herzen]	[2012]	[6.0]	[86]	[91]	
+Drama	
+[480684]	[The Tightrope]	[2012]	[7.2]	[25]	[86]	
+Biography	Documentary	Drama	Music	
+[435950]	[Singularidades de uma Rapariga Loura]	[2009]	[6.3]	[1021]	[64]	
+Drama	Drama	Romance	
+[359571]	[Lemon Men]	[2009]	[7.0]	[5]	[10]	
+Comedy	Documentary	Short	
+[480887]	[The Trade Off]	[2013]	[7.5]	[11]	[80]	
+Drama	
+[420036]	[Rindin the Puffer]	[2006]	[7.5]	[10]	[8]	
+Animation	Short	
+[321468]	[Historia pewnej milosci]	[1974]	[7.0]	[25]	[52]	
+Comedy	Drama	Romance	
+[345574]	[Know the Truth]	[2004]	[7.1]	[7]	[86]	
+Documentary	
+[318158]	[Head Above Water]	[1996]	[6.0]	[5743]	[92]	
+Comedy	Thriller	
+[241102]	[Bare Knuckle]	[2007]	[8.1]	[24]	[18]	
+Action	Short	
+[308762]	[Genug ist nicht genug]	[2009]	[5.1]	[11]	[88]	
+Drama	
+[414305]	[Queer Spawn]	[2006]	[7.2]	[6]	[30]	
+Documentary	Short	
+[426587]	[Saru lock]	[2010]	[5.5]	[28]	[112]	
+Comedy	
+[355796]	[Last Chance]	[1999]	[6.5]	[171]	[98]	
+Drama	
+[434340]	[Shtikat Haarchion]	[2010]	[7.2]	[1224]	[88]	
+Documentary	Documentary	Drama	History	History	
+[224944]	[Adanin aglayan yuzu]	[2004]	[7.0]	[6]	[17]	
+Documentary	Short	
+[357807]	[Le moine et la sorci�re]	[1987]	[6.4]	[132]	[97]	
+Drama	History	
+[264338]	[Code of the Streets]	[1939]	[5.7]	[10]	[72]	
+Action	Adventure	Crime	Drama	
+[331115]	[Incident at Channel Q]	[1986]	[6.5]	[10]	[85]	
+Music	
+[302517]	[Flowers in the Attic]	[1987]	[5.5]	[5982]	[93]	
+Drama	Mystery	Thriller	
+[276306]	[Den goda viljan]	[1992]	[7.8]	[1573]	[182]	
+Biography	Drama	Romance	
+[515735]	[�akallarla dans]	[2010]	[5.7]	[2230]	[102]	
+Comedy	
+[455753]	[The Avengers]	[2012]	[8.2]	[628529]	[143]	
+Action	Fantasy	
+[246639]	[Biotope]	[2002]	[6.6]	[10]	[7]	
+Animation	Short	
+[468985]	[The Launch of H.M.S. Albion]	[1898]	[5.7]	[44]	[2]	
+News	Short	
+[409675]	[Poumse...]	[1990]	[6.9]	[70]	[5]	
+Animation	Comedy	Short	
+[374995]	[Mediaeval Baebes Live]	[2006]	[7.7]	[9]	[78]	
+Music	
+[474351]	[The Penal Code]	[1932]	[5.8]	[17]	[62]	
+Crime	Drama	
+[430969]	[Several Ways to Die Trying]	[2005]	[8.0]	[39]	[96]	
+Comedy	Drama	
+[292060]	[El se�or fot�grafo]	[1953]	[7.3]	[130]	[100]	
+Comedy	Drama	Thriller	
+[241166]	[Barely Legal Summer Camp]	[2003]	[8.0]	[7]	[105]	
+Adult	
+[416874]	[Reality 2.0]	[2012]	[7.1]	[16]	[11]	
+Animation	Crime	Documentary	Short	
+[454519]	[The 7th Annual Canadian Comedy Awards]	[2006]	[6.0]	[49]	[90]	
+Comedy	
+[239337]	[Bad Ass Mono-Winged Angel]	[2001]	[6.7]	[9]	[12]	
+Short	
+[394737]	[Oconomowoc]	[2013]	[6.4]	[21]	[79]	
+Comedy	Drama	
+[456718]	[The Better Way]	[1909]	[5.0]	[13]	[11]	
+Drama	Short	
+[462688]	[The Falcon Takes Over]	[1942]	[6.6]	[438]	[65]	
+Crime	Mystery	
+[304768]	[Free to Be... You & Me]	[1974]	[7.7]	[276]	[48]	
+Animation	Family	Musical	
+[373598]	[Mask]	[1985]	[7.2]	[16987]	[127]	
+Biography	Drama	
+[502524]	[Wahadelko]	[1981]	[7.1]	[34]	[55]	
+Drama	
+[316535]	[Hanussen]	[1955]	[6.4]	[19]	[95]	
+Drama	
+[495329]	[Under Suspicion]	[1991]	[6.5]	[1994]	[99]	
+Crime	Drama	Thriller	
+[358197]	[Le pr�nom]	[2012]	[7.3]	[5721]	[109]	
+Comedy	
+[499600]	[Vicino al Colosseo c'� Monti]	[2008]	[8.1]	[12]	[22]	
+Short	
+[384342]	[My Father's Eyes]	[2004]	[7.4]	[7]	[5]	
+Drama	Short	
+[224553]	[Acide anim�]	[1999]	[7.1]	[55]	[18]	
+Comedy	Mystery	Short	
+[351162]	[La douche]	[2005]	[6.4]	[25]	[10]	
+Horror	Short	
+[245677]	[Big Alma]	[2007]	[6.8]	[8]	[90]	
+Documentary	
+[315608]	[Haiti: Triumph, Sorrow, and the Struggle of a People]	[2010]	[7.2]	[6]	[36]	
+Documentary	Short	
+[426406]	[Saraba hakobune]	[1984]	[7.6]	[147]	[127]	
+Fantasy	Mystery	Romance	
+[354682]	[Lady Mobster]	[1988]	[5.8]	[64]	[91]	
+Action	Drama	
+[218529]	[9-9-81]	[2012]	[5.6]	[133]	[92]	
+Horror	
+[427835]	[Schlo� K�nigswald]	[1988]	[6.5]	[20]	[89]	
+Comedy	
+[337605]	[JoJo: The Pop Princess]	[2006]	[6.6]	[19]	[5]	
+Documentary	Short	
+[229376]	[Alpacas and Destiny]	[2013]	[8.2]	[6]	[15]	
+Comedy	Fantasy	Romance	Short	
+[272753]	[Das letzte Versteck]	[2002]	[6.1]	[14]	[90]	
+Drama	War	
+[328965]	[Il giorno del falco]	[2004]	[6.5]	[6]	[85]	
+Drama	
+[233410]	[Another Romance of Celluloid]	[1938]	[6.0]	[28]	[11]	
+Documentary	Short	
+[321140]	[Hinter Schloss und Riegel]	[1931]	[6.0]	[55]	[3]	
+Comedy	Short	
+[257615]	[Carts]	[2007]	[6.7]	[89]	[93]	
+Comedy	Drama	
+[441199]	[Spass ohne Grenzen]	[1998]	[7.1]	[57]	[45]	
+Documentary	
+[433238]	[Shi xiong di]	[1995]	[6.0]	[105]	[100]	
+Action	Adventure	Comedy	Crime	Fantasy	Mystery	Romance	Sci_Fi	
+[262567]	[Cien]	[1956]	[6.9]	[56]	[98]	
+Action	Drama	
+[231087]	[An Alternative to Slitting Your Wrist]	[2009]	[7.1]	[18]	[82]	
+Documentary	
+[380343]	[Mon fils d'ailleurs]	[2004]	[5.9]	[17]	[90]	
+Drama	
+[289836]	[Ein Tag - Bericht aus einem deutschen Konzentrationslager 1939]	[1965]	[8.4]	[31]	[90]	
+Drama	
+[253077]	[Br�der]	[2002]	[7.6]	[90]	[89]	
+Comedy	Drama	
+[509549]	[Wu lin sheng huo jin]	[1983]	[7.0]	[114]	[85]	
+Adventure	Comedy	Fantasy	
+[246020]	[Big Weekend]	[2011]	[7.3]	[7]	[80]	
+Comedy	
+[491744]	[Tune in Trip Out]	[2003]	[5.4]	[12]	[17]	
+Short	
+[485322]	[Through My Thick Glasses]	[2004]	[6.9]	[140]	[13]	
+Animation	Comedy	Drama	Short	
+[364514]	[Lo sparviero del Nilo]	[1950]	[5.6]	[12]	[84]	
+Adventure	
+[468040]	[The King of Central Park]	[2006]	[7.2]	[38]	[24]	
+Adventure	Short	
+[264375]	[Cody: The Tipoff]	[1994]	[6.5]	[11]	[90]	
+Thriller	
+[398870]	[Osvobozen� Prahy]	[1978]	[5.0]	[26]	[143]	
+Drama	War	
+[248540]	[Blood Slaughter Massacre]	[2013]	[7.7]	[28]	[125]	
+Horror	Thriller	
+[268461]	[Crossroads]	[1986]	[7.0]	[8438]	[99]	
+Drama	Music	Mystery	Romance	
+[277239]	[Der M�rder Dimitri Karamasoff]	[1931]	[7.6]	[91]	[93]	
+Drama	
+[395672]	[Olafur Eliasson: Space Is Process]	[2009]	[6.7]	[20]	[76]	
+Biography	Documentary	
+[453694]	[That Cold Day in the Park]	[1969]	[7.0]	[542]	[113]	
+Drama	
+[422621]	[Roughrider]	[2012]	[7.9]	[33]	[80]	
+Action	Adventure	
+[319635]	[Her First Mate]	[1933]	[6.4]	[18]	[66]	
+Comedy	
+[393954]	[O Vestido]	[2003]	[6.6]	[123]	[117]	
+Drama	
+[261739]	[Chorabali]	[2012]	[8.0]	[784]	[137]	
+Action	Crime	Thriller	
+[505594]	[When Do We Eat?]	[2005]	[6.1]	[1235]	[86]	
+Comedy	
+[446488]	[Summer Camp Girls]	[1983]	[6.5]	[51]	[86]	
+Adult	
+[320091]	[Herren og hans tjenere]	[1959]	[6.5]	[44]	[83]	
+Drama	
+[227507]	[Alaska]	[1930]	[6.1]	[14]	[6]	
+Animation	Short	
+[508945]	[Woody Dines Out]	[1945]	[7.2]	[61]	[7]	
+Animation	Comedy	Family	Short	
+[287359]	[Dukhovnye golosa. Iz dnevnikov voyny. Povestvovanie v pyati chastyakh]	[1995]	[7.4]	[121]	[328]	
+Documentary	
+[223209]	[A.K.A. Birdseye]	[2002]	[6.7]	[56]	[90]	
+Comedy	Crime	
+[357895]	[Le nicoeur]	[2005]	[7.2]	[15]	[17]	
+Adult	Short	
+[460305]	[The Cutting Edge: The Magic of Movie Editing]	[2004]	[7.8]	[1421]	[54]	
+Documentary	
+[360094]	[Les bronz�s, le p�re No�l, papy et les autres]	[2003]	[6.8]	[21]	[115]	
+Comedy	Documentary	
+[508000]	[Winterstilte]	[2008]	[6.6]	[90]	[70]	
+Drama	
+[294534]	[Entre s�banas]	[2008]	[5.0]	[66]	[98]	
+Drama	Romance	
+[408921]	[Poquita Ropa]	[2011]	[7.5]	[15]	[67]	
+Musical	
+[473828]	[The Oscar Nominated Short Films: Animation]	[2011]	[7.1]	[30]	[85]	
+Animation	
+[452800]	[Tenko Reunion]	[1985]	[8.4]	[67]	[110]	
+Drama	
+[430796]	[Seulpeumboda deo seulpeun Iyagi]	[2009]	[7.7]	[798]	[105]	
+Drama	Romance	
+[376545]	[Mes nuits sont plus belles que vos jours]	[1989]	[6.1]	[857]	[86]	
+Drama	Romance	
+[221137]	[A Nice Touch]	[2012]	[7.6]	[9]	[15]	
+Crime	Drama	Short	Thriller	
+[317729]	[Hauru no ugoku shiro]	[2004]	[8.2]	[133943]	[119]	
+Adventure	Animation	Family	Fantasy	
+[413525]	[Pyos i kot]	[1955]	[5.9]	[15]	[10]	
+Animation	Family	Short	
+[417710]	[Reet, Petite, and Gone]	[1947]	[5.9]	[54]	[67]	
+Musical	
+[502879]	[Walking Tall Part II]	[1975]	[6.0]	[578]	[109]	
+Action	Biography	Crime	Drama	Thriller	
+[263465]	[Classic Albums: Black Sabbath - Paranoid]	[2010]	[7.6]	[136]	[55]	
+Documentary	Music	
+[460726]	[The Dead Will Tell]	[2004]	[5.1]	[578]	[87]	
+Drama	Mystery	Thriller	
+[348069]	[K�h� jik�]	[2003]	[7.1]	[1852]	[103]	
+Drama	
+[331806]	[Innocence Saga IX: Against the Wind]	[2009]	[8.2]	[5]	[128]	
+Action	
+[265795]	[Conditional Affection]	[2010]	[6.5]	[12]	[8]	
+Drama	Short	
+[244859]	[Between the Lines]	[2004]	[7.9]	[9]	[13]	
+Documentary	Documentary	Short	
+[456243]	[The Battlers]	[1994]	[7.2]	[27]	[240]	
+Drama	
+[232614]	[Angels in the Outfield]	[1951]	[7.1]	[1275]	[99]	
+Comedy	Family	Fantasy	Sport	
+[494336]	[Un genio en apuros]	[1983]	[5.4]	[35]	[90]	
+Comedy	
+[348522]	[L'amour braque]	[1985]	[6.1]	[397]	[101]	
+Drama	Romance	
+[274758]	[Dear Oprah: Non-Voting America's Wildest Dream]	[2008]	[7.0]	[9]	[52]	
+Documentary	
+[378156]	[Milkshake]	[2008]	[7.1]	[234]	[15]	
+Drama	Short	
+[298275]	[Familiegeheim]	[2001]	[7.3]	[7]	[54]	
+Documentary	
+[481722]	[The Untitled Kartik Krishnan Project]	[2010]	[6.6]	[39]	[75]	
+Drama	Mystery	Sci_Fi	Thriller	
+[252419]	[Britney Spears: Greatest Hits - My Prerogative]	[2004]	[6.4]	[382]	[160]	
+Music	
+[237432]	[Ausfahrt Ost... ins Leben von Nico, Lenne und Tomcat]	[1999]	[7.9]	[12]	[77]	
+Documentary	
+[253651]	[Bulldozing the Bull]	[1938]	[7.2]	[51]	[6]	
+Animation	Comedy	Family	Short	
+[421625]	[Rokland]	[2011]	[6.5]	[209]	[111]	
+Comedy	Drama	Fantasy	Romance	
+[278113]	[Derech Ha'nesher]	[1990]	[6.2]	[6]	[96]	
+Drama	
+[250481]	[Boond]	[2010]	[7.3]	[11]	[29]	
+Drama	Family	Music	Musical	Short	
+[343762]	[Kiler]	[1997]	[7.6]	[2134]	[104]	
+Action	Comedy	Crime	
+[252601]	[Broken Heart]	[1994]	[7.1]	[7]	[18]	
+Drama	Short	
+[330232]	[In Frankfurt sind die N�chte hei�]	[1966]	[7.2]	[20]	[85]	
+Drama	
+[506688]	[Who's Counting? Marilyn Waring on Sex, Lies and Global Economics]	[1995]	[7.5]	[44]	[94]	
+Documentary	
+[366793]	[Love Letters - Liebe per Nachnahme]	[2001]	[6.2]	[16]	[95]	
+Comedy	
+[347275]	[Kukonlaulusta kukonlauluun]	[1955]	[5.9]	[29]	[74]	
+Drama	
+[363113]	[Limousine]	[2008]	[5.8]	[37]	[100]	
+Crime	Thriller	
+[450714]	[Talking with Angels]	[2004]	[6.7]	[78]	[18]	
+Drama	Short	
+[292300]	[El yazisi]	[2012]	[6.1]	[270]	[96]	
+Comedy	Drama	
+[486989]	[To Romero with Love]	[2011]	[5.4]	[5]	[8]	
+Documentary	Short	
+[272237]	[Das Gel�bde]	[2007]	[6.8]	[115]	[92]	
+Drama	
+[449302]	[S�lo con tu pareja]	[1991]	[7.3]	[1713]	[85]	
+Comedy	Romance	
+[440779]	[South of South]	[2005]	[6.3]	[9]	[10]	
+Short	
+[363881]	[Little Ricky]	[2001]	[7.8]	[16]	[23]	
+Crime	Horror	Sci_Fi	Short	Thriller	
+[283531]	[Does Humor Belong in Music?]	[1985]	[7.9]	[238]	[57]	
+Comedy	Documentary	Music	
+[287166]	[Ducktators]	[1997]	[7.0]	[24]	[46]	
+Animation	Documentary	
+[474956]	[The Plot Against Harry]	[1989]	[7.0]	[222]	[81]	
+Comedy	
+[463882]	[The Frozen Inferno]	[2000]	[6.2]	[28]	[24]	
+Action	Sci_Fi	Short	War	
+[302160]	[Fleur d'oseille]	[1967]	[6.3]	[53]	[100]	
+Comedy	Crime	Drama	
+[404129]	[Perarasu]	[2006]	[5.3]	[37]	[140]	
+Action	Sci_Fi	Thriller	
+[438812]	[Society Lawyer]	[1939]	[6.4]	[84]	[77]	
+Drama	Music	Mystery	Romance	
+[220300]	[A Home at the End of the World]	[2004]	[6.8]	[10752]	[97]	
+Drama	Romance	
+[428512]	[Screen Snapshots: The Great Al Jolson]	[1955]	[6.5]	[15]	[10]	
+Documentary	Short	
+[293466]	[Empathie]	[2010]	[6.5]	[21]	[90]	
+Drama	
+[420141]	[Rio Sonata: Nana Caymmi]	[2010]	[6.2]	[8]	[85]	
+Documentary	
+[286951]	[Dr�mme st�jer ikke n�r de d�r]	[1979]	[7.5]	[13]	[80]	
+Drama	
+[493060]	[U kafani]	[1969]	[7.0]	[5]	[8]	
+Documentary	Short	
+[467433]	[The Jackals]	[1967]	[5.4]	[146]	[96]	
+Adventure	Western	
+[311762]	[Golden Rule: The Investment Theory of Politics]	[2009]	[8.2]	[13]	[79]	
+Documentary	
+[230532]	[American Tragedy]	[2000]	[5.5]	[177]	[170]	
+Crime	Drama	
+[323788]	[Hot Stuff]	[1956]	[6.1]	[121]	[16]	
+Comedy	Short	
+[430707]	[Seszele]	[1991]	[6.1]	[17]	[94]	
+Drama	
+[428209]	[Scooby-Doo! Camp Scare]	[2010]	[7.1]	[552]	[72]	
+Adventure	Animation	Comedy	Family	Mystery	
+[323916]	[Hotel Danubio]	[2003]	[6.2]	[99]	[98]	
+Drama	
+[366421]	[Loufok'n'roll attitude � Belgrade]	[2007]	[8.9]	[8]	[52]	
+Documentary	
+[334699]	[Jaane Tu... Ya Jaane Na]	[2008]	[7.6]	[10766]	[155]	
+Comedy	Drama	Romance	
+[222762]	[A Yank at Eton]	[1942]	[6.2]	[213]	[88]	
+Comedy	Family	
+[283533]	[Does That Hurt You?]	[2002]	[6.8]	[62]	[27]	
+Animation	Comedy	Documentary	Short	
+[392308]	[Notes from the Tilt-a-Whirl]	[2011]	[9.8]	[5]	[51]	
+Documentary	
+[219968]	[A Friend of Dorothy]	[1994]	[7.4]	[255]	[33]	
+Drama	Short	
+[437207]	[Slaughter of the Innocents]	[1993]	[5.2]	[688]	[104]	
+Crime	Horror	Mystery	Thriller	
+[394463]	[Obendr�ber da schneit es]	[2012]	[7.4]	[61]	[87]	
+Drama	
+[448875]	[Sybil]	[2007]	[6.9]	[787]	[89]	
+Drama	
+[485498]	[Thunderbird 6]	[1968]	[6.3]	[669]	[89]	
+Family	Sci_Fi	
+[457837]	[The Boys of Venice]	[1978]	[6.9]	[34]	[85]	
+Adult	Adult	Adult	
+[241890]	[Battle in Seattle]	[2007]	[6.8]	[11165]	[98]	
+Action	Drama	
+[231594]	[Anal Acrobats 1]	[2007]	[6.8]	[17]	[177]	
+Adult	
+[331599]	[Inglorious Bitches]	[2011]	[8.6]	[47]	[108]	
+Adult	
+[259440]	[Change Up]	[2002]	[7.4]	[30]	[46]	
+Documentary	Drama	Family	
+[418405]	[Rent a Rasta]	[2006]	[6.1]	[9]	[44]	
+Documentary	Short	
+[222869]	[A futura memoria: Pier Paolo Pasolini]	[1986]	[7.6]	[22]	[115]	
+Biography	Documentary	
+[447453]	[Supersingle]	[1998]	[5.1]	[33]	[90]	
+Comedy	
+[288619]	[East]	[2011]	[7.8]	[16]	[86]	
+Drama	
+[494287]	[Un d�a en el para�so]	[2003]	[6.1]	[114]	[98]	
+Comedy	Romance	
+[259188]	[Chale Chalo: The Lunacy of Film Making]	[2003]	[8.5]	[51]	[150]	
+Documentary	
+[369860]	[Maggie's Heart]	[2008]	[7.5]	[8]	[19]	
+Drama	Family	Short	
+[423542]	[Rush: R30]	[2005]	[8.3]	[323]	[130]	
+Documentary	Music	
+[261449]	[Chirac]	[2006]	[7.5]	[34]	[220]	
+Documentary	
+[491777]	[Tunnel of Love]	[2004]	[7.6]	[36]	[90]	
+Comedy	Drama	
+[514475]	[Zone Pro Site]	[2013]	[6.8]	[200]	[145]	
+Comedy	
+[428010]	[Schule der Gel�ufigkeit]	[1963]	[8.1]	[28]	[45]	
+Short	
+[229749]	[Amadeus Mozart]	[1995]	[6.8]	[29]	[117]	
+Adult	
+[493251]	[UFC 62: Liddell vs. Sobral]	[2006]	[7.0]	[67]	[180]	
+Sport	
+[486320]	[Time of Fear]	[2005]	[7.0]	[20]	[56]	
+Thriller	Documentary	
+[310124]	[Girl Cleans Sink]	[2004]	[6.9]	[12]	[10]	
+Romance	Short	
+[405507]	[Piccolo mondo antico]	[1941]	[6.7]	[76]	[106]	
+Drama	
+[249868]	[Bold Obsession]	[1983]	[5.7]	[7]	[80]	
+Adult	
+[292979]	[Elsa]	[1982]	[6.6]	[16]	[5]	
+Comedy	Drama	Short	
+[283541]	[Dog Altogether]	[2007]	[6.9]	[263]	[16]	
+Drama	Short	
+[392901]	[Nulevoy kilometr]	[2007]	[6.3]	[222]	[87]	
+Action	Crime	Romance	Thriller	
+[407994]	[Pohod]	[1968]	[6.6]	[13]	[83]	
+Drama	War	
+[447445]	[Superpower]	[2008]	[7.2]	[262]	[119]	
+Documentary	History	War	
+[399517]	[Out of the Closet, Off the Screen: The Life of William Haines]	[2001]	[6.9]	[24]	[45]	
+Biography	Documentary	
+[427500]	[Scarface: The Rebirth]	[2003]	[6.7]	[88]	[10]	
+Documentary	Short	
+[279160]	[Devc�tko]	[2002]	[5.6]	[130]	[83]	
+Comedy	Drama	
+[413022]	[Puppetry of the Penis: Live at the Forum]	[2012]	[5.8]	[164]	[52]	
+Comedy	
+[278612]	[Desperate Housewives: I Guess This Is Goodbye]	[2012]	[8.8]	[12]	[14]	
+Comedy	Documentary	Short	
+[333261]	[Iron Crows]	[2009]	[7.8]	[42]	[60]	
+Documentary	Drama	
+[219971]	[A Friend to Die For]	[1994]	[6.0]	[981]	[91]	
+Crime	Drama	
+[487901]	[Tommy and Quadrophenia Live: The Who]	[2005]	[7.9]	[59]	[174]	
+Documentary	Music	
+[428677]	[Se equivoco la cigue�a]	[1993]	[6.3]	[21]	[85]	
+Adventure	Comedy	
+[420553]	[Road Movie]	[2012]	[8.1]	[8]	[8]	
+Drama	Short	
+[449290]	[S�ndrome laboral]	[2005]	[5.0]	[6]	[100]	
+Drama	
+[389702]	[Night Song]	[1947]	[6.5]	[211]	[102]	
+Drama	Music	Romance	
+[276344]	[Den lyubvi]	[1990]	[5.2]	[39]	[90]	
+Action	Crime	Drama	Thriller	
+[447133]	[Super Hero Party Clown]	[2010]	[7.9]	[22]	[84]	
+Comedy	
+[228065]	[Alice in Label Land]	[1974]	[6.5]	[17]	[12]	
+Animation	Short	
+[514374]	[Zombie ch�ri]	[2012]	[7.5]	[13]	[10]	
+Horror	Short	
+[513364]	[Zemlya Sannikova]	[1974]	[7.2]	[279]	[92]	
+Adventure	
+[319510]	[Henley]	[2011]	[8.3]	[44]	[11]	
+Comedy	Short	
+[412661]	[Puccini e la fanciulla]	[2008]	[6.1]	[63]	[84]	
+Drama	
+[242953]	[Before Winter Comes]	[1969]	[5.8]	[140]	[107]	
+Drama	
+[227520]	[Alaska Seas]	[1954]	[6.2]	[45]	[78]	
+Adventure	Crime	Drama	
+[494170]	[Un caso d'incoscienza]	[1984]	[7.2]	[8]	[132]	
+Crime	Mystery	
+[351751]	[La guerra di Mario]	[2005]	[7.0]	[166]	[100]	
+Drama	
+[237373]	[Aurangzeb]	[2013]	[6.7]	[2051]	[137]	
+Action	Drama	Thriller	
+[311557]	[Gojira]	[1984]	[6.1]	[3070]	[87]	
+Action	Drama	Horror	Sci_Fi	Thriller	
+[474130]	[The Paradine Case]	[1947]	[6.6]	[6203]	[112]	
+Crime	Drama	Romance	Thriller	
+[485422]	[Thumbelina]	[1994]	[6.3]	[7913]	[86]	
+Animation	Family	Fantasy	Musical	Romance	
+[403967]	[Penumbra]	[2011]	[5.5]	[569]	[90]	
+Horror	Thriller	
+[379818]	[Moccasin Flats]	[2003]	[8.1]	[10]	[24]	
+Short	
+[258685]	[Celos]	[1999]	[6.3]	[382]	[105]	
+Drama	
+[481997]	[The Video Dating Tape of Desmondo Ray, Aged 33 and 3/4]	[2013]	[7.9]	[10]	[4]	
+Animation	Comedy	Drama	Romance	Short	
+[220799]	[A Man, Buried]	[2011]	[8.8]	[10]	[17]	
+Comedy	Fantasy	Short	
